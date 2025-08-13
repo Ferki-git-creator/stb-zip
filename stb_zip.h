@@ -3,7 +3,7 @@
  * @brief Ultra-fast ZIP parser with DEFLATE, RLE, ZIP64, mmap, AES support
  * @author Ferki
  * @license MIT
- * @version 2.0
+ * @version 1.0
  */
 
 #ifndef STB_ZIP_H
